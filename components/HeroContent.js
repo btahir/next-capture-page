@@ -1,9 +1,9 @@
-import React from 'react'
+import Subscribe from '../components/Subscribe'
 
 function HeroContent() {
   return (
     <div className='absolute inset-0 flex justify-center items-center'>
-      <div className='w-full h-96 max-w-md backdrop-filter backdrop-blur-md backdrop-grayscale backdrop-brightness-50 sm:rounded-2xl'>
+      <div className='w-full max-w-md backdrop-filter backdrop-blur-md backdrop-grayscale backdrop-brightness-50 sm:rounded-2xl'>
         <div className='w-full h-full text-white py-8 px-6'>
           <h1 className='text-center text-3xl sm:text-4xl font-extrabold sm:leading-[3rem]'>
             Your headline here.{' '}
@@ -14,6 +14,7 @@ function HeroContent() {
             id voluptate. Aute labore id aliquip nisi amet voluptate sunt duis
             proident ea aute fugiat ea. Anim deserunt amet eiusmod ullamco esse.
           </p>
+          <Subscribe />
         </div>
       </div>
     </div>
