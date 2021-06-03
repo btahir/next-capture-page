@@ -8,7 +8,10 @@ function Subscribe() {
         type='email'
         required
       />
-      <button type='submit' className='bg-yellow-400 px-4 py-2 font-medium sm:text-lg rounded-tr rounded-br'>
+      <button
+        type='submit'
+        className='bg-yellow-400 px-4 py-2 font-medium sm:text-lg rounded-tr rounded-br'
+      >
         Subscribe
       </button>
     </form>
