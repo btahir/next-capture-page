@@ -3,7 +3,7 @@ import HeroContent from '../components/HeroContent'
 
 export default function Home() {
   return (
-    <div className=''>
+    <div>
       <Head>
         <title>Capture Page</title>
         <link rel='icon' href='/favicon.ico' />
