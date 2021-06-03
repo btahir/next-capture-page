@@ -1,5 +1,3 @@
-import React from 'react'
-
 function Subscribe() {
   return (
     <form className='mt-8 w-full flex'>
