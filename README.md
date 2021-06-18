@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS Example Setup
+# Next.js + Tailwind CSS Email Capture Page Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
@@ -8,7 +8,7 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/btahir/next-tube/tree/capture-page&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/btahir/next-capture-page&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
 ## How to use
 
