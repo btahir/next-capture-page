@@ -1,4 +1,18 @@
-# Next.js + Tailwind CSS Email Capture Page Example
+# Next.js + Tailwind CSS + Notion Email Capture Page Example
+
+<div align="center">
+<img src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/demo-store.gif">
+<p align="center">
+  <a href="https://notioncapture.vercel.app">Live Demo</a> •
+  <a href="https://nextails.com/">See more starters</a> •
+  <a href="https://twitter.com/deepwhitman">Follow me on Twitter</a>
+</p>
+</div>
+
+See the blog posts for more details.
+
+Build Page [Guide](https://nextails.com/blog/how-to-create-a-stylish-email-capture-page-in-tailwind-css)
+Add Notion [Guide](https://nextails.com/blog/how-to-add-notion-to-your-email-capture-page)
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
