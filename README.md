@@ -12,6 +12,7 @@
 See the blog posts for more details.
 
 Build Page [Guide](https://nextails.com/blog/how-to-create-a-stylish-email-capture-page-in-tailwind-css)
+
 Add Notion [Guide](https://nextails.com/blog/how-to-add-notion-to-your-email-capture-page)
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
