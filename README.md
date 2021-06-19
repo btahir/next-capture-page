@@ -15,10 +15,6 @@ Build Page [Guide](https://nextails.com/blog/how-to-create-a-stylish-email-captu
 
 Add Notion [Guide](https://nextails.com/blog/how-to-add-notion-to-your-email-capture-page)
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
-
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
-
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
