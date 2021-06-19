@@ -1,7 +1,7 @@
 # Next.js + Tailwind CSS + Notion Email Capture Page Example
 
 <div align="center">
-<img src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/demo-store.gif">
+<img src="https://github.com/btahir/next-capture-page/blob/main/public/demo.gif">
 <p align="center">
   <a href="https://notioncapture.vercel.app">Live Demo</a> •
   <a href="https://nextails.com/">See more starters</a> •
